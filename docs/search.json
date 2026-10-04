@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "2026/presentacion.html#agenda",
+    "href": "2026/presentacion.html#agenda",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Agenda",
+    "text": "Agenda\n\nSesiones SEIO\nMiembros del grupo\nPróximos eventos\nLo que viene"
+  },
+  {
+    "objectID": "2026/presentacion.html#sesiones",
+    "href": "2026/presentacion.html#sesiones",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Sesiones",
+    "text": "Sesiones\n\n\nPaquetes\n\nRicardo - PEAXAY\nInés - neuralGAM\nNataly - dimControl\nNora - clustcif\n\n\nAplicaciones\n\nSalva - TTS - MNAT\nEmilio - Natación\nSergio - Corr. - Imp.\nLuis Mariano - TSP - genéticos\n\n\nML & IA\n\nNatalia - NLP - genAI\nMaría - PowerBI+\nCarmen - Complexity\nPablo - Clasif. - plagas"
+  },
+  {
+    "objectID": "2026/presentacion.html#miembros",
+    "href": "2026/presentacion.html#miembros",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Miembros",
+    "text": "Miembros\nA febrero de 2026\n\n65 miembros\n18 estudiantes"
+  },
+  {
+    "objectID": "2026/presentacion.html#reconocimientos",
+    "href": "2026/presentacion.html#reconocimientos",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Reconocimientos",
+    "text": "Reconocimientos\n\nAlberto Torrejón: Ha conseguido plaza en la Universidad de Economía y Empresa de Viena, sede de la R Foundation, donde va a trabajar con Kurt Hornik, vicepresidente de la R Foundation y uno de los principales contribuyentes de R."
+  },
+  {
+    "objectID": "2026/presentacion.html#ayuda-a-grupos-y-memoria",
+    "href": "2026/presentacion.html#ayuda-a-grupos-y-memoria",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Ayuda a grupos y memoria",
+    "text": "Ayuda a grupos y memoria\n\nAplicada íntegramente a la ayuda a estudiantes\nPara el próximo año se puede organizar un seminario, o co-organizar congreso de R.\nNos pedirán la memoria anual enseguida"
+  },
+  {
+    "objectID": "2026/presentacion.html#tareas",
+    "href": "2026/presentacion.html#tareas",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Tareas",
+    "text": "Tareas\n\nRepositorio presentaciones | Organización GitHub\nPágna web del grupo\nLista de distribución\nVisibilidad en SEIO y otros sitios\nOrganización II Seminario SOCEIO"
+  },
+  {
+    "objectID": "2026/presentacion.html#próximos-eventos",
+    "href": "2026/presentacion.html#próximos-eventos",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Próximos eventos",
+    "text": "Próximos eventos\n\nV Congreso y XVI Jornadas de Usuarios de R 2026. San Cristóbal de La Laguna – Tenerife 25, 26 y 27 de noviembre de 2026\nLaboratorio de Ciencia de Datos: Presentación libro «Advanced Basketball Data Science» y 105ª reunión de usuarios R"
+  },
+  {
+    "objectID": "2026/presentacion.html#quantum-data-science",
+    "href": "2026/presentacion.html#quantum-data-science",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Quantum Data Science",
+    "text": "Quantum Data Science\n\nQuantum Data Science search\nQuantum Data Scientist: The New Role of the 21st Century\nEU Funding Opportunities Across the Quantum Technology Spectrum"
+  },
+  {
+    "objectID": "2026/presentacion.html#debate",
+    "href": "2026/presentacion.html#debate",
+    "title": "Reunión grupo de trabajo software",
+    "section": "Debate",
+    "text": "Debate\n\nSugerencias\nVoluntari@s\nPróximo relevo según normativa"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Índice reuniones",
+    "section": "",
+    "text": "2026: Presentacion | Acta"
+  },
+  {
+    "objectID": "index.html#reuniones",
+    "href": "index.html#reuniones",
+    "title": "Índice reuniones",
+    "section": "",
+    "text": "2026: Presentacion | Acta"
+  },
+  {
     "objectID": "2026/acta.html",
     "href": "2026/acta.html",
     "title": "Acta reunión grupo de trabajo",
@@ -11,7 +88,7 @@
     "href": "2026/acta.html#asuntos-tratados",
     "title": "Acta reunión grupo de trabajo",
     "section": "Asuntos tratados",
-    "text": "Asuntos tratados\nEl coordinador del grupo realiza una presentación que se puede consultar en el repositorio reuniones de la organización de GitHub del grupo en el siguiente enlace: https://soceio.github.io/reuniones/2026/presentacion.html#/title-slide\n\nSesiones del grupo en SEIO 2026\nSe han organizado tres sesiones del grupo de trabajo con trabajos muy interesantes:\n\nSesión 1: Paquetes. Ricardo - PEAXAY; Inés - neuralGAM; Nataly - dimControl; Nora - clustcif.\nSesión 2: Aplicaciones. Salva - TTS - MNAT; Emilio - Natación; Sergio - Corr. - Imp.; Luis Mariano - TSP - genéticos\nSesión 3: ML & IA. Natalia - NLP - genAI; María - PowerBI+; Carmen - Complexity; Pablo - Clasif. - plagas\n\nSe recuerda en este punto que el grupo de trabajo tiene un repositorio de presentaciones en GitHub, y se anima a los miembros a subir sus presentaciones allí para que estén disponibles para todos, tanto de este congreso como de los anteriores. Todos los miembros que han comunicado su usuario de GitHub han sido añadidos a la organización del grupo, si todavía no lo has hecho, envíaselo al coordinador. Quien no se encuentre cómodo con GitHub, puede enviar su presentación al coordinador para que la suba él.\n\n\nMiembros del grupo de trabajo\nA febrero de 2026, última actualización recibida, éramos 65 miembros de los cuales 18 estudiantes.\nEl coordinador comenta que en las reuniones le gustaría reconocer los logros de los miembros del grupo. Se solicita que los miembros que tengan algo que compartir, lo comuniquen al coordinador antes de la próxima reunión. En esta ocasión, se reconoce el logro de Alberto Torrejón, que ha conseguido plaza en la Universidad de Economía y Empresa de Viena, sede de la R Foundation, donde va a trabajar con Kurt Hornik, vicepresidente de la R Foundation y uno de los principales contribuyentes de R.\n\n\nAyuda a grupos y memoria\nLa ayuda recibida en la última convocatoria se ha aplicado íntegramente a la ayuda a estudiantes para los congresos de Lleida y Santiago. Para el próximo año se puede organizar un seminario, o co-organizar congreso de R, o ambas cosas. Nos pedirán la memoria anual enseguida, y se abrirá la convocatoria para la ayuda a grupos de trabajo para los próximos dos años.\nPara esta convocatoria se propone organizar el segundo seminario del grupo de trabajo en 2027. Se solicitan voluntarios para la organización del mismo. Marta y Nora se ofrecen para el siguiente (2029) en Vigo, ya que se han incorporado recientemente al grupo. Si no hay voluntarios para 2027, se puede organizar en la Universidad Rey Juan Carlos como el primero (Vídeo), pero sería mejor no repetir.\nNOTA: Por si ayuda, al final del acta se incluye una tabla de frecuencias de los miembros del grupo de trabajo según el dominio de su correo (no tengo otra información aunque la recopilaré para la web del grupo). Gracias por la sugerencia Nora.\n\n\nOtras tareas del grupo de trabajo\nAparte de mantener el Repositorio presentaciones, es urgente que alguien se ocupe de llenar de contenido la págna web del grupo. Carmen sugiere que se puede realizar como trabajo de fin de grado de algún estudiante. El coordinador no se opone, pero tiene que ser algo “mantebible” en el tiempo. Actualmente hay un “esqueleto” en formato quarto website. El repositorio es el siguiente: https://github.com/soceio/website\nTambién hay que mantener la lista de distribución, actualmente un grupo de Google. Es un proceso tedioso por las altas y bajas, si alguien tiene una idea de cómo hacerlo mejor y más más automático se agradecería.\nHay que dar visibilidad en la web de la SEIO y otros sitios al grupo de trabajo. Actualmente aparece muy poca información, se apliará y sobre todo cuando haya contenido en la web se pondrá ahí también.\n\n\nPróximos eventos\nEl coordinador informa de dos próximos eventos relevantes para el grupo, y anima a los miembros a participar en ellos:\n\nV Congreso y XVI Jornadas de Usuarios de R 2026. San Cristóbal de La Laguna – Tenerife 25, 26 y 27 de noviembre de 2026\nLaboratorio de Ciencia de Datos: Presentación libro «Advanced Basketball Data Science» y 105ª reunión de usuarios R\n\n\n\nLo que viene\nEl coordinador comenta sobre una cuestión que puede ser relevante en los próximos años en relación a la actividad del grupo. Está ganando atención no solo a nivel académico sino también instituciona y empresarial. En general, la Unión Europea va a invertir en tecnologías cuánticas. En particular, la Ciencia de Datos Cuántica (Quantum Data Science) es un área emergente que combina la computación cuántica con la ciencia de datos. Se comparten estos tres enlaces relevantes para quien quiera profundizar en el tema:\n\nQuantum Data Science search\nQuantum Data Scientist: The New Role of the 21st Century\nEU Funding Opportunities Across the Quantum Technology Spectrum\n\nEntre los asistentes a la reunión en general es todavía muy desconocido, aunque en la Universidad de Vigo hay algún grupo haciendo algo. Se propone que dentro de la actividad del grupo organicemos algún webinar sobre el tema para ver cómo podemos aprovechar esta nueva ola desde nuestra actividad.\n\n\nCoordinación\nDebemos ir pensando en el relevo de la coordinación según normativa. Aunque según la normativa el cambio ya se debería haber hecho (máximo 3 años), el coordinador no tiene problema en continuar hasta el próximo congreso en que se elija un nuevo coordinador (o coordinadora). Lo podemos hacer parecido a como se hace en la SEIO, quedando el “saliente” un periodo colaborando con el entrante.\nEn este punto el coordinador agradece a Carmen Lancho la ayuda en la coordinación del grupo en los dos últimos congresos, porque sin su ayuda no hubiera sido posible organizar las sesiones del grupo de trabajo y sobre todo gestionar la ayuda a los estudiantes del grupo."
+    "text": "Asuntos tratados\nEl coordinador del grupo realiza una presentación que se puede consultar en el repositorio reuniones de la organización de GitHub del grupo en el siguiente enlace: https://soceio.github.io/reuniones/2026/presentacion.html\n\nSesiones del grupo en SEIO 2026\nSe han organizado tres sesiones del grupo de trabajo con trabajos muy interesantes:\n\nSesión 1: Paquetes. Ricardo - PEAXAY; Inés - neuralGAM; Nataly - dimControl; Nora - clustcif.\nSesión 2: Aplicaciones. Salva - TTS - MNAT; Emilio - Natación; Sergio - Corr. - Imp.; Luis Mariano - TSP - genéticos\nSesión 3: ML & IA. Natalia - NLP - genAI; María - PowerBI+; Carmen - Complexity; Pablo - Clasif. - plagas\n\nSe recuerda en este punto que el grupo de trabajo tiene un repositorio de presentaciones en GitHub, y se anima a los miembros a subir sus presentaciones allí para que estén disponibles para todos, tanto de este congreso como de los anteriores. Todos los miembros que han comunicado su usuario de GitHub han sido añadidos a la organización del grupo, si todavía no lo has hecho, envíaselo al coordinador. Quien no se encuentre cómodo con GitHub, puede enviar su presentación al coordinador para que la suba él.\n\n\nMiembros del grupo de trabajo\nA febrero de 2026, última actualización recibida, éramos 65 miembros de los cuales 18 estudiantes.\nEl coordinador comenta que en las reuniones le gustaría reconocer los logros de los miembros del grupo. Se solicita que los miembros que tengan algo que compartir, lo comuniquen al coordinador antes de la próxima reunión. En esta ocasión, se reconoce el logro de Alberto Torrejón, que ha conseguido plaza en la Universidad de Economía y Empresa de Viena, sede de la R Foundation, donde va a trabajar con Kurt Hornik, vicepresidente de la R Foundation y uno de los principales contribuyentes de R.\n\n\nAyuda a grupos y memoria\nLa ayuda recibida en la última convocatoria se ha aplicado íntegramente a la ayuda a estudiantes para los congresos de Lleida y Santiago. Para el próximo año se puede organizar un seminario, o co-organizar congreso de R, o ambas cosas. Nos pedirán la memoria anual enseguida, y se abrirá la convocatoria para la ayuda a grupos de trabajo para los próximos dos años.\nPara esta convocatoria se propone organizar el segundo seminario del grupo de trabajo en 2027. Se solicitan voluntarios para la organización del mismo. Marta y Nora se ofrecen para el siguiente (2029) en Vigo, ya que se han incorporado recientemente al grupo. Si no hay voluntarios para 2027, se puede organizar en la Universidad Rey Juan Carlos como el primero (Vídeo), pero sería mejor no repetir.\nNOTA: Por si ayuda, al final del acta se incluye una tabla de frecuencias de los miembros del grupo de trabajo según el dominio de su correo (no tengo otra información aunque la recopilaré para la web del grupo). Gracias por la sugerencia Nora.\n\n\nOtras tareas del grupo de trabajo\nAparte de mantener el Repositorio presentaciones, es urgente que alguien se ocupe de llenar de contenido la págna web del grupo. Carmen sugiere que se puede realizar como trabajo de fin de grado de algún estudiante. El coordinador no se opone, pero tiene que ser algo “mantebible” en el tiempo. Actualmente hay un “esqueleto” en formato quarto website. El repositorio es el siguiente: https://github.com/soceio/website\nTambién hay que mantener la lista de distribución, actualmente un grupo de Google. Es un proceso tedioso por las altas y bajas, si alguien tiene una idea de cómo hacerlo mejor y más más automático se agradecería.\nHay que dar visibilidad en la web de la SEIO y otros sitios al grupo de trabajo. Actualmente aparece muy poca información, se apliará y sobre todo cuando haya contenido en la web se pondrá ahí también.\n\n\nPróximos eventos\nEl coordinador informa de dos próximos eventos relevantes para el grupo, y anima a los miembros a participar en ellos:\n\nV Congreso y XVI Jornadas de Usuarios de R 2026. San Cristóbal de La Laguna – Tenerife 25, 26 y 27 de noviembre de 2026\nLaboratorio de Ciencia de Datos: Presentación libro «Advanced Basketball Data Science» y 105ª reunión de usuarios R\n\n\n\nLo que viene\nEl coordinador comenta sobre una cuestión que puede ser relevante en los próximos años en relación a la actividad del grupo. Está ganando atención no solo a nivel académico sino también instituciona y empresarial. En general, la Unión Europea va a invertir en tecnologías cuánticas. En particular, la Ciencia de Datos Cuántica (Quantum Data Science) es un área emergente que combina la computación cuántica con la ciencia de datos. Se comparten estos tres enlaces relevantes para quien quiera profundizar en el tema:\n\nQuantum Data Science search\nQuantum Data Scientist: The New Role of the 21st Century\nEU Funding Opportunities Across the Quantum Technology Spectrum\n\nEntre los asistentes a la reunión en general es todavía muy desconocido, aunque en la Universidad de Vigo hay algún grupo haciendo algo. Se propone que dentro de la actividad del grupo organicemos algún webinar sobre el tema para ver cómo podemos aprovechar esta nueva ola desde nuestra actividad.\n\n\nCoordinación\nDebemos ir pensando en el relevo de la coordinación según normativa. Aunque según la normativa el cambio ya se debería haber hecho (máximo 3 años), el coordinador no tiene problema en continuar hasta el próximo congreso en que se elija un nuevo coordinador (o coordinadora). Lo podemos hacer parecido a como se hace en la SEIO, quedando el “saliente” un periodo colaborando con el entrante.\nEn este punto el coordinador agradece a Carmen Lancho la ayuda en la coordinación del grupo en los dos últimos congresos, porque sin su ayuda no hubiera sido posible organizar las sesiones del grupo de trabajo y sobre todo gestionar la ayuda a los estudiantes del grupo."
   },
   {
     "objectID": "2026/acta.html#conclusiones",

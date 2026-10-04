@@ -23,7 +23,7 @@ La reunión se convoca en el marco del XLII Congreso Nacional de Estadística, I
 
 ## Asuntos tratados
 
-El coordinador del grupo realiza una presentación que se puede consultar en el [repositorio reuniones](https://github.com/soceio/reuniones) de la [organización](https://github.com/soceio) de GitHub del grupo en el siguiente enlace: <https://soceio.github.io/reuniones/2026/presentacion.html#/title-slide>
+El coordinador del grupo realiza una presentación que se puede consultar en el [repositorio reuniones](https://github.com/soceio/reuniones) de la [organización](https://github.com/soceio) de GitHub del grupo en el siguiente enlace: <https://soceio.github.io/reuniones/2026/presentacion.html>
 
 ### Sesiones del grupo en SEIO 2026
 
