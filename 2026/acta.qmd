@@ -1,0 +1,29 @@
+---
+title: "Acta reunión grupo de trabajo"
+format: html
+---
+
+A las 15:30 del 4 de septiembre de 2026, se reúne el Grupo de Trabajo de Software de la Sociedad de Estadística e Investigación Operativa de la Sociedad de Estadística, Investigación Operativa y Ciencia de Datos en el aula 23 de la Facultad de Ciencias Económicas y Empresariales de la Universidade de Santiago de Compostela.
+
+Preside la reunión el coordinador Emilio López Cano, de la Universidad Rey Juan Carlos.
+
+Asistentes:
+
+* Emilio López Cano
+* Nora Martínez Villanueva
+* Marta Sestelo Pérez
+* Óscar Soto Sánchez
+* Natalia Madrueño Sierro
+* Carmen Lancho Martín
+* María Escorihuela Sahún
+* Emilio Torres Manzanera (invitado)
+
+La reunión se convoca en el marco del XLII Congreso Nacional de Estadística, Investigación Operativa y Ciencia de Datos, sin un orden del día establecido.
+
+
+## Asuntos tratados
+
+El coordinador del grupo realiza una presentación que se puede consultar en el repositorio de GitHub del grupo ()
+
+
+

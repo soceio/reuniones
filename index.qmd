@@ -1,0 +1,13 @@
+---
+title: "Índice reuniones"
+format: html
+---
+
+## Reuniones
+
+* **2026**: [Presentacion](2026/presentacion.html){target="_blank"} | [Acta](2026/acta.html)
+
+
+
+
+

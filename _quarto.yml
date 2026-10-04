@@ -1,0 +1,16 @@
+project:
+  type: website
+  title: "Reuniones grupo de software SEIO"
+  output-dir: "docs"
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
