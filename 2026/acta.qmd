@@ -35,7 +35,7 @@ Se han organizado tres sesiones del grupo de trabajo con trabajos muy interesant
 
 * Sesión 3: ML & IA. Natalia - NLP - genAI; María - PowerBI+; Carmen - Complexity; Pablo - Clasif. - plagas
 
-Se recuerda en este punto que el grupo de trabajo tiene un repositorio de presentaciones en GitHub, y se anima a los miembros a **subir sus presentaciones** allí para que estén disponibles para todos, tanto de este congreso como de los anteriores. Todos los miembros que han comunicado su usuario de GitHub han sido añadidos a la organización del grupo, si todavía no lo has hecho, envíaselo al coordinador. Quien no se encuentre cómodo con GitHub, puede enviar su presentación al coordinador para que la suba él.
+Se recuerda en este punto que el grupo de trabajo tiene un [repositorio de presentaciones en GitHub](https://github.com/soceio/presentaciones), y se anima a los miembros a **subir sus presentaciones** allí para que estén disponibles para todos, tanto de este congreso como de los anteriores. Todos los miembros que han comunicado su usuario de GitHub han sido añadidos a la organización del grupo, si todavía no lo has hecho, envíaselo al coordinador. Quien no se encuentre cómodo con GitHub, puede enviar su presentación al coordinador para que la suba él.
 
 ### Miembros del grupo de trabajo
 

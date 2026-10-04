@@ -1,5 +1,6 @@
 ---
 title: "Reunión grupo de trabajo software"
+date: 2026-09-04
 format: 
     revealjs:
         theme: solarized
