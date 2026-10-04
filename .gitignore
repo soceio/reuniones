@@ -50,3 +50,6 @@ rsconnect/
 
 /.quarto/
 **/*.quarto_ipynb
+
+## personal data
+datos/
